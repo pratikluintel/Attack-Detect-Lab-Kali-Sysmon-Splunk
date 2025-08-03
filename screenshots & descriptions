@@ -2,7 +2,7 @@
 
 ### 1. Nmap Scan Results
 This scan from Kali Linux identifies open ports on the Windows 10 target, revealing services such as SMB and RPC that could be exploited.
-![Nmap Scan](screenshots/nmap_scan.png)
+![Nmap Scan](RECON Nmap.png)
 
 
 
