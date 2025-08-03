@@ -8,7 +8,7 @@ This scan from Kali Linux identifies open ports on the Windows 10 target, reveal
 
 ### 2. Meterpreter Reverse HTTPS Session
 Successful exploitation using a Metasploit reverse_https payload, providing a Meterpreter session on the Windows 10 machine.
-![Meterpreter Shell](screenshots/meterpreter_shell.png)
+![Meterpreter Shell](EXPLOITATION msf .png)
 
 ---
 
